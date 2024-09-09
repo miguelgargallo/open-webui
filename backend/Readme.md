@@ -1,4 +1,9 @@
-d ba# Commands
+# Commands to proceed on Windows
+
+- [Commands to proceed on Windows](#commands-to-proceed-on-windows)
+  - [First step:](#first-step)
+  - [Activate the environment:](#activate-the-environment)
+  - [Run the server:](#run-the-server)
 
 ## First step:
 ```bash
